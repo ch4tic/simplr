@@ -4,8 +4,8 @@ I recommend every C beginner to try and make something like this using Salvatore
 Visit his GitHub page and website where he published the tutorial. <br />
 DISCLAIMER: Simplr is not fully built, it lacks some function commands such as CTRL+C/V. 
 
-GitHub: https://github.com/antirez <br />
-Website: https://viewsourcecode.org/snaptoken/kilo
+GitHub: https://github.com/antirez <str /><br />
+Website: https://viewsourcecode.org/snaptoken/kilo<str />
 
 Time to code: 2 weeks, including research on certain command's. <br />
-Made by: ch4tic
+Made by: ch4tic <str />
