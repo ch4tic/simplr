@@ -1,11 +1,5 @@
 /* Simplr -  editor made in one month using Salvatore Sanfilippo's tutorial */
 /* This program DOES NOT depend on any libcurses and emits VT100 escapes directly on terminal. */
-/* I recommend every C beginner to do this project as it advances your knowledge in C and programming in general. */
-/* Visit Salvatore's GitHub page and website where he published the tutorial */
-/* Github: https://github.com/antirez */
-/* Website: https://viewsourcecode.org/snaptoken/kilo/ */
-/* More features soon! */
-/* Made by: ch4tic */
 
 #define _DEFAULT_SOURCE
 #define _BSD_SOURCE
